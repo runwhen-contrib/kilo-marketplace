@@ -6,8 +6,8 @@
 # - data: 51
 # - development: 25
 # - search: 15
-# - observability: 14
-# - productivity: 11
+# - observability: 13
+# - productivity: 12
 # - web-automation: 7
 # - business: 3
 #
@@ -3986,13 +3986,14 @@ items:
         placeholder: your_riza_api_key
   - id: runwhen-platform-mcp
     name: RunWhen Platform
-    description: Connects AI coding agents to the RunWhen AI SRE platform for workspace chat, infrastructure issue
-      investigation, SLX task execution, run sessions, knowledge base access, and Tool Builder task authoring.
+    description: Connects AI coding agents to the RunWhen AI SRE platform for enterprise infrastructure investigation,
+      operational task automation, workspace chat, SLX execution, run sessions, knowledge base access, and Tool Builder
+      authoring.
     author: RunWhen
     url: https://github.com/runwhen-contrib/runwhen-platform-mcp
-    category: observability
+    category: productivity
     tags:
-      - observability
+      - productivity
     prerequisites:
       - RunWhen account
       - RunWhen API token (JWT or Personal Access Token from Profile → Personal Tokens)

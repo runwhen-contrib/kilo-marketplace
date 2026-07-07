@@ -1,10 +1,11 @@
 id: runwhen-platform-mcp
 name: RunWhen Platform
-description: Connects AI coding agents to the RunWhen AI SRE platform for workspace chat, infrastructure issue
-  investigation, SLX task execution, run sessions, knowledge base access, and Tool Builder task authoring.
+description: Connects AI coding agents to the RunWhen AI SRE platform for enterprise infrastructure investigation,
+  operational task automation, workspace chat, SLX execution, run sessions, knowledge base access, and Tool Builder
+  authoring.
 author: RunWhen
 url: https://github.com/runwhen-contrib/runwhen-platform-mcp
-category: observability
+category: productivity
 prerequisites:
   - RunWhen account
   - RunWhen API token (JWT or Personal Access Token from Profile → Personal Tokens)
