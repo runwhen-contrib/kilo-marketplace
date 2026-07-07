@@ -3986,9 +3986,9 @@ items:
         placeholder: your_riza_api_key
   - id: runwhen-platform-mcp
     name: RunWhen Platform
-    description: Connects AI coding agents to the RunWhen AI SRE platform for enterprise infrastructure investigation,
-      operational task automation, workspace chat, SLX execution, run sessions, knowledge base access, and Tool Builder
-      authoring.
+    description: Gives Kilo Code agents direct access to the RunWhen AI SRE platform for enterprise infrastructure
+      investigation, operational task automation, workspace chat, SLX execution, run sessions, knowledge base access,
+      and Tool Builder authoring.
     author: RunWhen
     url: https://github.com/runwhen-contrib/runwhen-platform-mcp
     category: productivity
